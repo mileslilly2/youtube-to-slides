@@ -5,6 +5,7 @@ pydub
 pytube
 python-pptx
 flask
+gunicorn
 
 
 
