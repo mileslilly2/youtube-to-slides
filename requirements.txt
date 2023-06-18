@@ -5,7 +5,6 @@ pydub
 pytube
 python-pptx
 flask
-pptx
 
 
 
