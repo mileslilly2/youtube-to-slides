@@ -1,5 +1,6 @@
 aiohttp @ https://files.pythonhosted.org/packages/f0/02/071500ac4da91f762dc35c9e22438b73158077da4e851a8e4741fa05ab4a/aiohttp-3.8.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=20acae4f268317bb975671e375493dbdbc67cddb5f6c71eebdb85b34444ac46b
-packaging>=20.4,<21.0
+packaging
+pytoolconfig 
 aiosignal @ https://files.pythonhosted.org/packages/76/ac/a7305707cb852b7e16ff80eaf5692309bde30e2b1100a1fcacdc8f731d97/aiosignal-1.3.1-py3-none-any.whl#sha256=f8376fb07dd1e86a584e4fcdec80b36b7f81aac666ebc724e2c090300dd83b17
 argon2-cffi @ https://files.pythonhosted.org/packages/a8/07/946d5a9431bae05a776a59746ec385fbb79b526738d25e4202d3e0bbf7f4/argon2_cffi-21.3.0-py3-none-any.whl#sha256=8c976986f2c5c0e5000919e6de187906cfd81fb1c72bf9d88c01177e77da7f80
 argon2-cffi-bindings @ https://files.pythonhosted.org/packages/ec/f7/378254e6dd7ae6f31fe40c8649eea7d4832a42243acaf0f1fff9083b2bed/argon2_cffi_bindings-21.2.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b746dba803a79238e925d9046a63aa26bf86ab2a2fe74ce6b009a1c3f5c8f2ae
@@ -39,7 +40,7 @@ pexpect==4.8.0
 pkginfo==1.9.6
 platformdirs==2.6.2
 pluggy @ https://files.pythonhosted.org/packages/9e/01/f38e2ff29715251cf25532b9082a1589ab7e4f571ced434f98d0139336dc/pluggy-1.0.0-py2.py3-none-any.whl#sha256=74134bbf457f031a36d68416e1509f34bd5ccc019f0bcc952c7b909d06b37bd3
-poetry==1.1.11
+poetry
 poetry-core==1.0.8
 protobuf @ https://files.pythonhosted.org/packages/e7/a2/3273c05fc5d959fa90de6453ebd6d45c6d4fab3ec212d631625ea5780921/protobuf-4.21.12-cp37-abi3-manylinux2014_x86_64.whl#sha256=78a28c9fa223998472886c77042e9b9afb6fe4242bd2a2a5aced88e3f4422aa7
 ptyprocess==0.7.0
@@ -50,7 +51,6 @@ pylev==1.4.0
 pyparsing==3.0.9
 pyseto @ https://files.pythonhosted.org/packages/3b/60/3f03f7a65fb445cbaa3cde09f05ed3095af524091fd728c4dfbd1320fbcf/pyseto-1.7.0-py3-none-any.whl#sha256=031d443a87d589db56df090a9ad9a53466d0a2f03c185ef89c38a4197569a256
 python-lsp-jsonrpc @ https://files.pythonhosted.org/packages/06/ee/754bfd5f6bfe7162c10d3ecb0aeef6f882f91d3231596c83f761a75efd0b/python_lsp_jsonrpc-1.0.0-py3-none-any.whl#sha256=079b143be64b0a378bdb21dff5e28a8c1393fe7e8a654ef068322d754e545fc7
-pytoolconfig @ https://files.pythonhosted.org/packages/4d/1e/49b73fb59354fb0c3f7afad39c58dd47f5f0dbed2ffb1977dee3295db16c/pytoolconfig-1.2.4-py3-none-any.whl#sha256=7befe396f91b2593345b829a7745c7f459f04fc6c53fc86c0b771945446a7bd1
 replit @ https://files.pythonhosted.org/packages/87/2c/23c810fa4a299f7d715a26f400b6ee6e618f0679d9a93159f7feb3c14e2b/replit-3.2.5-py3-none-any.whl#sha256=c8ca833203e5e56b53d594523fec204bc31cb1ae4b9b703778e4b8edda292313
 replit-python-lsp-server @ https://files.pythonhosted.org/packages/09/42/44ff903505cefa2b2d06fcc164ddff74510eece259e30da6a0c2c68976c8/replit_python_lsp_server-1.15.9-py3-none-any.whl#sha256=205faf150008be7d3da2ac16fc178c833d22835e24841cb82b666443a6b28bef
 requests @ https://files.pythonhosted.org/packages/d2/f4/274d1dbe96b41cf4e0efb70cbced278ffd61b5c7bb70338b62af94ccb25b/requests-2.28.2-py3-none-any.whl#sha256=64299f4909223da747622c030b781c0d7811e359c37124b4bd368fb8c6518baa
